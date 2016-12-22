@@ -1,6 +1,7 @@
+
+# inspiration for my .vimrc
 http://marcgg.com/blog/2016/03/01/vimrc-example/
 
 
-# install new plugin with (here color scheme solarized)
-
-git submodule add git://github.com/altercation/vim-colors-solarized.git bundle/vim-colors-solarized
+# install plugins
+look at the file `install_all_plugins.sh`
