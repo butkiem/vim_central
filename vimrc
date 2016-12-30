@@ -5,9 +5,14 @@ filetype plugin indent on
 
 
 "config for solarized colorscheme
-set background=dark
-colorscheme solarized
-let g:solarized_termcolors=256
+"set background=dark
+"colorscheme solarized
+"let g:solarized_termcolors=256
+
+"config for molokai colorscheme
+let g:molokai_original = 1
+let g:rehash256 = 1
+
 
 " Sample .vimrc file by Martin Brochhaus
 " Presented at PyCon APAC 2012
